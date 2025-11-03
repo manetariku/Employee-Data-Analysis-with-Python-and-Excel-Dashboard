@@ -21,7 +21,10 @@ Comprehensive HR analytics project analyzing employee data from India and New Ze
 - Pandas - Data manipulation and analysis
 - Matplotlib/Seaborn - Data visualization
 - Jupyter Notebooks - Interactive analysis.
-- ### Dashboard & Reporting
+- ### Dashboard
+-<img width="912" height="627" alt="Screenshot 2025-11-02 012638(1)" src="https://github.com/user-attachments/assets/42244d8d-1b7a-465c-8bc9-cfea1f3479cd" />
+
+-  ## Reporting
 - Microsoft Excel - Interactive dashboard creation
 - Pivot Tables & Charts - Data summarization
 - Data Visualization - Business intelligence reporting
